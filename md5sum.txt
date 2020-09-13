@@ -1,0 +1,8 @@
+eb71d8108afec84d4dc72c523b57763a  truecrypt-7.1a-linux-console-x64.tar.gz
+218d80bbe69cb63dba124efb62600e0f  truecrypt-7.1a-linux-console-x86.tar.gz
+bb355096348383987447151eecd6dc0e  truecrypt-7.1a-linux-x64.tar.gz
+09355fb2e43cf51697a15421816899be  truecrypt-7.1a-linux-x86.tar.gz
+89affdc42966ae5739f673ba5fb4b7c5  TrueCrypt_7.1a_MacOS_X.dmg
+7a23ac83a0856c352025a6f7c9cc1526  TrueCrypt-7.1a_Win32_64.exe
+60b1ea96c0dcb7238da39844f0c11910  UserGuide.pdf
+
